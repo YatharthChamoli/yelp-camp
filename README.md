@@ -1,7 +1,7 @@
-YelpCamp 🏕️
+## YelpCamp 🏕️
 A full-stack web application for campground reviews and discovery, built with Node.js, Express.js, and MongoDB.
-📋 Table of Contents
 
+## 📋 Table of Contents
 Features
 Technologies Used
 Project Structure
@@ -120,7 +120,7 @@ Create a .env file in the root directory and include the following variables:
 env# Database
 DATABASE_URL=mongodb://localhost:27017/yelpcamp
 # or for MongoDB Atlas:
-# DATABASE_URL=mongodb+srv://username:password@cluster.mongodb.net/yelpcamp
+# DATABASE_URL=
 
 # Cloudinary
 CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
@@ -128,7 +128,7 @@ CLOUDINARY_KEY=your_cloudinary_key
 CLOUDINARY_SECRET=your_cloudinary_secret
 
 # Maps API
-MAPBOX_TOKEN=your_mapbox_token
+MAPTILER_API_KEYN=your_mapbox_token
 # or
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
@@ -178,8 +178,7 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 🙏 Acknowledgments
 
 Thanks to all contributors who helped build this project
