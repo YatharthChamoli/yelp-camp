@@ -118,8 +118,6 @@ CLOUDINARY_SECRET=your_cloudinary_secret
 
 # Maps API (choose one)
 MAPTILER_API_KEY=your_maptiler_api_key
-# OR
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
 # Session Secret (for secure session management)
 SESSION_SECRET=your_session_secret
